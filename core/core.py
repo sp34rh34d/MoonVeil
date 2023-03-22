@@ -51,6 +51,8 @@ Optional args:
 	--shell      Select interpreter [cmd, sh, bash, /bin/bash, /bin/sh, powershell, etc]
 	--payload    Select payload type [all, python, socket, rvim, vim, openssl, rview, view, ksh, gimp, gdb, irb, cpan, easyinstall, bash, netcat, c, c#, haskell, perl, php, ruby, socat, nodejs, java, javascript, telnet, zsh, lua, golang, vlang, awk, dart]
 	--os         Select target arc [linux, windows, mac]
+	--lhost      Set attacker IP
+	--lport      Set attacker port
 
 Examples:
 	python3 Moonveil.py reverse --os linux --payload php --shell sh
