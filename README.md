@@ -27,8 +27,7 @@ Examples:
 
 	python3 Moonveil.py msfvenom --os windows
 ```
-<img width="1680" alt="Screenshot 2023-03-22 at 23 50 37" src="https://user-images.githubusercontent.com/94752464/227115384-45818cf9-7515-4b23-9768-c9c69c57ac3a.png">
-
+<img width="1680" alt="Screenshot 2023-03-22 at 23 53 00" src="https://user-images.githubusercontent.com/94752464/227115769-9aaaf295-84b4-4c6d-8745-8bb6884f8d90.png">
 
 <img width="1042" alt="Screenshot 2023-03-22 at 16 10 59" src="https://user-images.githubusercontent.com/94752464/227052241-e22d585a-c661-49d0-b859-2abbff87e85e.png">
 
