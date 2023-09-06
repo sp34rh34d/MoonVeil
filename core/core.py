@@ -29,9 +29,9 @@ class main():
 :!:     :!:  :!:  !:!  :!:  !:!  :!:  !:!   ::!!:!   :!:       :!:   :!:      
 :::     ::   ::::: ::  ::::: ::   ::   ::    ::::     :: ::::   ::   :: ::::  
  :      :     : :  :    : :  :   ::    :      :      : :: ::   :    : :: : :  
-Coded by:{TerminalColor.Red} Adonis Izaguirre {TerminalColor.Reset} Email:{TerminalColor.Red} adonis.izaguirre@kapa7.com / adons@outlook.com {TerminalColor.Reset}
+Coded by:{TerminalColor.Red} sp34rh34d {TerminalColor.Reset} Email:{TerminalColor.Red} adonis.izaguirre@kapa7.com / adons@outlook.com {TerminalColor.Reset}
 twitter: {TerminalColor.Red}@AdonsIzaguirre{TerminalColor.Reset}
-Welcome to MoonVeil v1.0 [{TerminalColor.Green}https://github.com/AdonsIzaguirre/MoonVeil{TerminalColor.Reset}]
+Welcome to MoonVeil v1.0 [{TerminalColor.Green}https://github.com/sp34rh34d/MoonVeil{TerminalColor.Reset}]
 ======================================================================================================''')                                                                            
 
 class help():
